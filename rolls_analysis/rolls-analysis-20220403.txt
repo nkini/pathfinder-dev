@@ -1,0 +1,260 @@
+
+ 🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲
+
+For Cidel
+d20 (total rolls: 159)
+	  1    (3.77%): xxxxxx
+	  2    (6.92%): xxxxxxxxxxx
+	  3    (8.81%): xxxxxxxxxxxxxx
+	  4    (6.92%): xxxxxxxxxxx
+	  5    (6.92%): xxxxxxxxxxx
+	  6    (3.77%): xxxxxx
+	  7    (6.29%): xxxxxxxxxx
+	  8    (6.29%): xxxxxxxxxx
+	  9    (3.14%): xxxxx
+	 10    (3.14%): xxxxx
+	 11    (6.92%): xxxxxxxxxxx
+	 12    (5.03%): xxxxxxxx
+	 13    (6.29%): xxxxxxxxxx
+	 14    (5.66%): xxxxxxxxx
+	 15    (4.40%): xxxxxxx
+	 16    (5.03%): xxxxxxxx
+	 17    (2.52%): xxxx
+	 18    (3.14%): xxxxx
+	 19    (2.52%): xxxx
+	 20    (2.52%): xxxx
+1 to 10 rolls: 55.97%
+11 to 20 rolls: 44.03%
+
+For Everyone Else
+d20 (total rolls: 656)
+	  1    (4.88%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  2    (5.79%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  3    (4.12%): xxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  4    (5.03%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  5    (8.38%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  6    (5.18%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  7    (5.18%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  8    (4.27%): xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  9    (3.96%): xxxxxxxxxxxxxxxxxxxxxxxxxx
+	 10    (4.27%): xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 11    (4.57%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 12    (4.57%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 13    (4.42%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 14    (5.34%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 15    (5.03%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 16    (5.18%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 17    (5.18%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 18    (5.64%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 19    (5.03%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 20    (3.96%): xxxxxxxxxxxxxxxxxxxxxxxxxx
+1 to 10 rolls: 51.07%
+11 to 20 rolls: 48.93%
+
+Everyone combined
+d20 (total rolls: 815)
+	  1    (4.66%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  2    (6.01%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  3    (5.03%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  4    (5.40%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  5    (8.10%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  6    (4.91%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  7    (5.40%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  8    (4.66%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	  9    (3.80%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 10    (4.05%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 11    (5.03%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 12    (4.66%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 13    (4.79%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 14    (5.40%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 15    (4.91%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 16    (5.15%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 17    (4.66%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 18    (5.15%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 19    (4.54%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	 20    (3.68%): xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1 to 10 rolls: 52.02%
+11 to 20 rolls: 47.98%
+
+ 🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲
+
+For Cidel
+d10 (total rolls: 1)
+	  1    (0.00%): 
+	  2    (0.00%): 
+	  3    (0.00%): 
+	  4    (0.00%): 
+	  5  (100.00%): x
+	  6    (0.00%): 
+	  7    (0.00%): 
+	  8    (0.00%): 
+	  9    (0.00%): 
+	 10    (0.00%): 
+1 to 5 rolls: 100.00%
+6 to 10 rolls: 0.00%
+
+For Everyone Else
+d10 (total rolls: 45)
+	  1   (20.00%): xxxxxxxxx
+	  2    (6.67%): xxx
+	  3   (13.33%): xxxxxx
+	  4   (11.11%): xxxxx
+	  5    (8.89%): xxxx
+	  6    (4.44%): xx
+	  7    (8.89%): xxxx
+	  8    (6.67%): xxx
+	  9   (11.11%): xxxxx
+	 10    (8.89%): xxxx
+1 to 5 rolls: 60.00%
+6 to 10 rolls: 40.00%
+
+Everyone combined
+d10 (total rolls: 46)
+	  1   (19.57%): xxxxxxxxx
+	  2    (6.52%): xxx
+	  3   (13.04%): xxxxxx
+	  4   (10.87%): xxxxx
+	  5   (10.87%): xxxxx
+	  6    (4.35%): xx
+	  7    (8.70%): xxxx
+	  8    (6.52%): xxx
+	  9   (10.87%): xxxxx
+	 10    (8.70%): xxxx
+1 to 5 rolls: 60.87%
+6 to 10 rolls: 39.13%
+
+ 🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲
+
+For Cidel
+d6 (total rolls: 11)
+	  1    (9.09%): x
+	  2    (9.09%): x
+	  3   (18.18%): xx
+	  4   (18.18%): xx
+	  5    (9.09%): x
+	  6   (36.36%): xxxx
+1 to 3 rolls: 36.36%
+4 to 6 rolls: 63.64%
+
+For Everyone Else
+d6 (total rolls: 15)
+	  1    (6.67%): x
+	  2   (33.33%): xxxxx
+	  3   (13.33%): xx
+	  4   (33.33%): xxxxx
+	  5    (0.00%): 
+	  6   (13.33%): xx
+1 to 3 rolls: 53.33%
+4 to 6 rolls: 46.67%
+
+Everyone combined
+d6 (total rolls: 26)
+	  1    (7.69%): xx
+	  2   (23.08%): xxxxxx
+	  3   (15.38%): xxxx
+	  4   (26.92%): xxxxxxx
+	  5    (3.85%): x
+	  6   (23.08%): xxxxxx
+1 to 3 rolls: 46.15%
+4 to 6 rolls: 53.85%
+
+ 🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲
+
+For Cidel
+d4 (total rolls: 1)
+	  1  (100.00%): x
+	  2    (0.00%): 
+	  3    (0.00%): 
+	  4    (0.00%): 
+1 to 2 rolls: 100.00%
+3 to 4 rolls: 0.00%
+
+For Everyone Else
+d4 (total rolls: 48)
+	  1   (39.58%): xxxxxxxxxxxxxxxxxxx
+	  2   (16.67%): xxxxxxxx
+	  3   (31.25%): xxxxxxxxxxxxxxx
+	  4   (12.50%): xxxxxx
+1 to 2 rolls: 56.25%
+3 to 4 rolls: 43.75%
+
+Everyone combined
+d4 (total rolls: 49)
+	  1   (40.82%): xxxxxxxxxxxxxxxxxxxx
+	  2   (16.33%): xxxxxxxx
+	  3   (30.61%): xxxxxxxxxxxxxxx
+	  4   (12.24%): xxxxxx
+1 to 2 rolls: 57.14%
+3 to 4 rolls: 42.86%
+
+ 🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲
+
+For Cidel
+d8 (total rolls: 51)
+	  1   (19.61%): xxxxxxxxxx
+	  2   (11.76%): xxxxxx
+	  3    (7.84%): xxxx
+	  4   (15.69%): xxxxxxxx
+	  5    (9.80%): xxxxx
+	  6    (9.80%): xxxxx
+	  7    (5.88%): xxx
+	  8   (19.61%): xxxxxxxxxx
+1 to 4 rolls: 54.90%
+5 to 8 rolls: 45.10%
+
+For Everyone Else
+d8 (total rolls: 0)
+
+Everyone combined
+d8 (total rolls: 51)
+	  1   (19.61%): xxxxxxxxxx
+	  2   (11.76%): xxxxxx
+	  3    (7.84%): xxxx
+	  4   (15.69%): xxxxxxxx
+	  5    (9.80%): xxxxx
+	  6    (9.80%): xxxxx
+	  7    (5.88%): xxx
+	  8   (19.61%): xxxxxxxxxx
+1 to 4 rolls: 54.90%
+5 to 8 rolls: 45.10%
+
+ 🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲
+
+For Cidel
+d12 (total rolls: 0)
+
+For Everyone Else
+d12 (total rolls: 9)
+	  1   (22.22%): xx
+	  2   (11.11%): x
+	  3   (22.22%): xx
+	  4   (11.11%): x
+	  5    (0.00%): 
+	  6    (0.00%): 
+	  7    (0.00%): 
+	  8    (0.00%): 
+	  9   (11.11%): x
+	 10   (11.11%): x
+	 11    (0.00%): 
+	 12   (11.11%): x
+1 to 6 rolls: 66.67%
+7 to 12 rolls: 33.33%
+
+Everyone combined
+d12 (total rolls: 9)
+	  1   (22.22%): xx
+	  2   (11.11%): x
+	  3   (22.22%): xx
+	  4   (11.11%): x
+	  5    (0.00%): 
+	  6    (0.00%): 
+	  7    (0.00%): 
+	  8    (0.00%): 
+	  9   (11.11%): x
+	 10   (11.11%): x
+	 11    (0.00%): 
+	 12   (11.11%): x
+1 to 6 rolls: 66.67%
+7 to 12 rolls: 33.33%
+
+ 🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲

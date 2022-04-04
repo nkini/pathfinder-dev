@@ -1,0 +1,5 @@
+Persephony:rolling 120d+4
+rolling 1+20+1
+Cidel:rolling 1+20+8
+rolling 1s20
+Cabergolosh:rolling 2dF
